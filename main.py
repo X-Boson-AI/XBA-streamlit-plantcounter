@@ -2,6 +2,7 @@ import streamlit as st
 import os
 import cv2
 import numpy as np
+import tempfile
 
 # Constants
 MIN_GREEN_HUE = 45
